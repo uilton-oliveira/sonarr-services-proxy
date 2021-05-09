@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  thexem-proxy:
+    image: ghcr.io/darksupremo/sonarr-services-proxy:latest
+    restart: unless-stopped
+    ports:
+      - 3005:3000
+    volumes:
+    - ./config/sonarr-mapping.yml:/sonarr-services-proxy/config/xem-mapping.json:ro

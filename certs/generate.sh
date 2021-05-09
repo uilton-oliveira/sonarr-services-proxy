@@ -1,0 +1,1 @@
+openssl req -x509 -nodes -days 3650 -newkey rsa:2048  -keyout sonarr_services.key -out sonarr_services.pem -config req.cnf -sha256

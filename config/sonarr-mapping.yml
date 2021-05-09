@@ -1,0 +1,46 @@
+exclude:
+- 321239
+include:
+# - tvdbId: 80797
+#   title: Maklarna ​S01 ​SWEDiSH ​DVDRip ​XviD-​SRT
+#   searchTitle: Maklarna ​S01 ​SWEDiSH ​DVDRip ​XviD-​SRT
+#   season: -1
+# - tvdbId: 73141
+#   title: American Dad
+#   searchTitle: American Dad
+#   season: -1
+#   sceneSeasonNumber: -1
+#   sceneOrigin: tvdb
+#   comment: Some P2P
+#   filterRegex: "(?i)-(?:ViSUM|TrollHD|ETHiCS)$"
+# - tvdbId: 73141
+#   title: American Dad
+#   searchTitle: American Dad
+#   season: -1
+#   sceneSeasonNumber: -1
+#   sceneOrigin: unknown
+#   comment: Unknown Group
+# - tvdbId: 262148
+#   title: Mayday
+#   searchTitle: Mayday
+#   season: -1
+#   filterRegex: "(?i)Mayday\\.S01E"
+# - tvdbId: 363739
+#   title: The Family Chantel
+#   searchTitle: The Family Chantel
+#   season: 7
+#   sceneSeasonNumber: 2
+#   comment: Pillow Talk
+#   filterRegex: S02E\d+\.Pillow\.Talk
+- tvdbId: 321239
+  title: The Handmaid's Tale
+  searchTitle: The Handmaid's Tale
+  season: -1
+- tvdbId: 321239
+  title: The Handmaid Tale
+  searchTitle: The Handmaid Tale
+  season: -1
+- tvdbId: 321239
+  title: O Conto da Aia
+  searchTitle: O Conto da Aia
+  season: -1
